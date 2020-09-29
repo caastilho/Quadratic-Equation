@@ -151,7 +151,7 @@ class Inputs:
 
             # Draw equation
             index = self.canvas.create_text(
-                36, 600, 
+                36, 607, 
                 text=solution, 
                 fill="white", 
                 font=self.solution_font, 
